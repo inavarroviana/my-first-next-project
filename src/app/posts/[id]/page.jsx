@@ -1,6 +1,4 @@
-function Post({ params }) {
-  const { id } = params;
-  return <h2>This is the post {id}</h2>;
+function PostPage() {
+  return null;
 }
-
-export default Post;
+export default PostPage;

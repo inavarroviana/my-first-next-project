@@ -1,3 +1,15 @@
 .layout {
-  margin-bottom: 20px;
+  margin-bottom: 25px;
+}
+
+.counter {
+  margin-bottom: 10px;
+}
+
+.button {
+  margin-bottom: 30px;
+}
+
+.small {
+  margin-top: 25px;
 }

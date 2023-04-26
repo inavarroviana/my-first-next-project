@@ -1,5 +1,17 @@
 .title {
   color: #009f;
   margin-bottom: 5px;
+}
+
+.commentsLink {
+  margin-bottom: 25px;
+}
+
+.comments {
   margin-top: 20px;
+  background-color: aqua;
+}
+
+.marginBottom {
+  margin-bottom: 30px;
 }

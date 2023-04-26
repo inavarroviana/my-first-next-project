@@ -7,6 +7,7 @@ const fetchPosts = () => {
     next: { revalidate: 60 },
   }).then((res) => res.json());
 };
+
 async function ListOfPosts() {
   const posts = await fetchPosts();
 
