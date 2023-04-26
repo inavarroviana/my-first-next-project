@@ -1,6 +1,6 @@
 import styles from "./ListOfPosts.module.css";
 import Link from "next/link";
-import LikeButton from "../components/LikeButton";
+import LikeButton from "./LikeButton";
 
 const fetchPosts = () => {
   return fetch(`https://jsonplaceholder.typicode.com/posts`, {
