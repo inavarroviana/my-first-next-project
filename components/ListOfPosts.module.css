@@ -12,6 +12,19 @@
   background-color: aqua;
 }
 
+.commentsBetween {
+  margin-bottom: 30px;
+}
+
 .marginBottom {
   margin-bottom: 30px;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}
+
+.img {
+  object-fit: cover;
 }

@@ -4,6 +4,7 @@ const nextConfig = {
     appDir: true,
   },
   reactStrictMode: true,
+  images: { domains: ["www.google.com"] },
 };
 
 module.exports = nextConfig;
